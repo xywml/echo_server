@@ -28,7 +28,7 @@ git clone https://github.com/xywml/echo_server.git
 Navigate to the project directory:
 
 ```bash
-cd yourproject
+cd echo_server
 ```
 
 Build the project:
@@ -89,7 +89,7 @@ git clone https://github.com/xywml/echo_server.git
 进入项目目录：
 
 ```bash
-cd yourproject
+cd echo_server
 ```
 
 编译项目：
