@@ -1,0 +1,4 @@
+[Sat Aug  3 05:46:08 2024] Server started
+[Sat Aug  3 05:46:29 2024] Connected client: 5
+[Sat Aug  3 05:46:32 2024] Received message from client 5: 123
+[Sat Aug  3 05:46:34 2024] Closed client: 5
