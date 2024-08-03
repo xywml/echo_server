@@ -22,7 +22,7 @@ Make sure your system has the following software installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://yourrepository.git
+git clone https://github.com/xywml/echo_server.git
 ```
 
 Navigate to the project directory:
@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 克隆此仓库到本地机器：
 
 ```bash
-git clone https://yourrepository.git
+git clone https://github.com/xywml/echo_server.git
 ```
 
 进入项目目录：
